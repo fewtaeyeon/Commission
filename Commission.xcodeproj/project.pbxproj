@@ -12,6 +12,8 @@
 		CE6A63FF1F8C7655009F60C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE6A63FD1F8C7655009F60C4 /* Main.storyboard */; };
 		CE6A64011F8C7655009F60C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE6A64001F8C7655009F60C4 /* Assets.xcassets */; };
 		CE6A64041F8C7655009F60C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE6A64021F8C7655009F60C4 /* LaunchScreen.storyboard */; };
+		CE6A640C1F8C7A9A009F60C4 /* target_PNG44.png in Resources */ = {isa = PBXBuildFile; fileRef = CE6A640B1F8C7A9A009F60C4 /* target_PNG44.png */; };
+		CE6A640E1F8C7AA8009F60C4 /* icon_038340_256.png in Resources */ = {isa = PBXBuildFile; fileRef = CE6A640D1F8C7AA8009F60C4 /* icon_038340_256.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		CE6A64001F8C7655009F60C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE6A64031F8C7655009F60C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE6A64051F8C7655009F60C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE6A640B1F8C7A9A009F60C4 /* target_PNG44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = target_PNG44.png; sourceTree = "<group>"; };
+		CE6A640D1F8C7AA8009F60C4 /* icon_038340_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_038340_256.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		CE6A63F81F8C7655009F60C4 /* Commission */ = {
 			isa = PBXGroup;
 			children = (
+				CE6A640D1F8C7AA8009F60C4 /* icon_038340_256.png */,
+				CE6A640B1F8C7A9A009F60C4 /* target_PNG44.png */,
 				CE6A63F91F8C7655009F60C4 /* AppDelegate.swift */,
 				CE6A63FB1F8C7655009F60C4 /* ViewController.swift */,
 				CE6A63FD1F8C7655009F60C4 /* Main.storyboard */,
@@ -90,6 +96,9 @@
 		CE6A63EE1F8C7655009F60C4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = May;
@@ -123,6 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6A640E1F8C7AA8009F60C4 /* icon_038340_256.png in Resources */,
+				CE6A640C1F8C7A9A009F60C4 /* target_PNG44.png in Resources */,
 				CE6A64041F8C7655009F60C4 /* LaunchScreen.storyboard in Resources */,
 				CE6A64011F8C7655009F60C4 /* Assets.xcassets in Resources */,
 				CE6A63FF1F8C7655009F60C4 /* Main.storyboard in Resources */,
